@@ -1,0 +1,21 @@
+{
+    "name": "jamesons-dark",
+    "displayName": "Jameson's Dark",
+    "description": "Just a generally darker theme with low contrast.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jameson's Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jameson's Dark-color-theme.json"
+            }
+        ]
+    }
+}
