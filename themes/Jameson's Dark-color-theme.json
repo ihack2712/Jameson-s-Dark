@@ -64,7 +64,7 @@
     {
       "name": "Comments",
       "scope": "comment",
-      "settings": { "foreground": "#BBBBBB4D", "fontStyle": "italic" }
+      "settings": { "foreground": "#4CAF50", "fontStyle": "italic" }
     },
     {
       "name": "Constants",
